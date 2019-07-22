@@ -151,7 +151,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Calculator.cpp" />
+    <ClCompile Include="calculator00.cpp" />
+    <ClCompile Include="calculator02buggy.cpp" />
+    <ClCompile Include="ProgramStructure.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="std_lib_facilities.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
