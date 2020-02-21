@@ -21,9 +21,6 @@
     <ClCompile Include="calculator02buggy.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="calculator00.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="std_lib_facilities.h">

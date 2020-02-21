@@ -151,7 +151,6 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="calculator00.cpp" />
     <ClCompile Include="calculator02buggy.cpp" />
     <ClCompile Include="ProgramStructure.cpp" />
   </ItemGroup>
